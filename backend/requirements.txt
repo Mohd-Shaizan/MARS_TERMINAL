@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+yfinance
+pandas
+requests
+duckduckgo-search
+trafilatura
+python-dotenv
+python-multipart
